@@ -1,7 +1,7 @@
 import React from 'react';
 import { AppRegistry, View } from 'react-native';
 
-import Demo from './Demo';
+import Demo from './components';
 
 
 export default class App extends React.Component {
