@@ -16,7 +16,7 @@ cd components
 vim index.js
 ```
 
-#### example index.js
+#### edit `components/index.js`
 
 ```
 import React from 'react';
