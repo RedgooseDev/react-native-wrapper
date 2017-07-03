@@ -54,3 +54,4 @@ fastlane/screenshots
 
 # custom
 components/
+components/index.js
