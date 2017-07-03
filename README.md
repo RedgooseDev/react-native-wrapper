@@ -1,6 +1,9 @@
 # react-native-wrapper
 React native wrapper for component development
 
+컴포넌트 개발용으로 만들어진 React Native 래퍼 입니다.  
+이 공간에서 다른 컴포넌트를 개발할 수 있습니다. `./components/index.js` 가 연결되어있기 때문에 파일을 만들어서 프리뷰할 수 있습니다.
+
 
 ## Using guide
 
@@ -46,3 +49,5 @@ const css = StyleSheet.create({
 ```
 
 ### play in components directory
+
+잘 사용하면됨..
