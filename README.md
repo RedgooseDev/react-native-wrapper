@@ -2,8 +2,18 @@
 React native wrapper for component development
 
 
+## Using guide
 
-### example index.js
+### create `components` directory  
+`mkdir component`
+
+### add index.js
+```
+cd components
+vim index.js
+```
+
+#### example index.js
 
 ```
 import React from 'react';
@@ -34,3 +44,5 @@ const css = StyleSheet.create({
 	},
 });
 ```
+
+### play in components directory
