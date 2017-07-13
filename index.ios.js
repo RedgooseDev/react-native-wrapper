@@ -4,6 +4,10 @@ import { AppRegistry, View } from 'react-native';
 import Demo from './components';
 
 
+// global settings
+console.disableYellowBox = true;
+
+
 export default class App extends React.Component {
 	render() {
 		return (
